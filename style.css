@@ -1,14 +1,17 @@
 body {
   background-image: url(img/SPD-Wall\ -\ Copy.png);
   background-size: cover;
-  color: #ffffff;
+  color: #ffd700;
   font-size: 25px;
 }
 .subsection {
-  background-color: #0ab19b;
+  background-color: #50c878;
 }
 .main-header {
+  margin: 30px 400px;
+  background-color: #50c878;
   text-align: center;
+  <!--help me with borders-->
 }
 h2 {
   text-align: center;
