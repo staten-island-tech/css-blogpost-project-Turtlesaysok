@@ -3,17 +3,26 @@ body {
   background-size: cover;
   color: #ffd700;
   font-size: 25px;
+  font-family: "Gemunu Libre", sans-serif;
 }
 .subsection {
-  background-color: #ffffff;
+  background-color: #6d6d6d;
 }
 .main-header {
-  margin: 30px 400px;
-  background-color: #50c878;
+  margin: 20px 40px auto;
+  background-color: #6d6d6d;
   text-align: center;
+}
+#Img {
+  margin: 50px;
+  img
 }
 h2 {
   text-align: center;
-  margin: 50px auto;
+  margin: 40px auto;
   padding: 5px 5px;
+}
+.paragraph {
+  margin-left: 50px;
+  text-align: left;
 }
